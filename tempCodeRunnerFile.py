@@ -1,2 +1,2 @@
-for i in range(0,11,2):
-#     print(i)
+def reverse_list(l):
+#     return l[::-1]
